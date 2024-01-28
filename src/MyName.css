@@ -1,0 +1,8 @@
+.MyName {
+}
+
+.MyName input{
+    padding: 4px;
+    border-radius: 4px;
+    width: 100px;
+}

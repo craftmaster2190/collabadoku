@@ -1,0 +1,22 @@
+.ColorSelector {
+
+}
+
+.ColorSelectorColors {
+    display: flex;
+    flex-direction: row;
+}
+
+.Color {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    border-radius: 25%;
+    margin: 4px;
+    border: 1px gray dotted;
+    box-sizing: border-box;
+}
+
+.SelectedColor {
+    border: 2px blue solid;
+}
